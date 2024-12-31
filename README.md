@@ -58,13 +58,6 @@ Visualized features extracted by CNNs.
 
 Model performance metrics presented for easy evaluation.
 
-# Future Enhancements
-
-Optimize the model architecture for better performance.
-
-Experiment with Transfer Learning using pre-trained models like VGG16, ResNet, etc.
-
-Deploy the model as a web application for real-time predictions.
 
 # Contributions
 
